@@ -7,15 +7,15 @@
 }
 
 #content {
-    position:fixed;
-    left:50%;
-    margin-left:-500px;
-    top:40%;
-    margin-top:-250px;
-    padding:0;
-    width:1000px;
-    height:1000px;
-    background-color:red;
+    position: fixed;
+    left: 50%;
+    margin-left: -500px;
+    top: 40%;
+    margin-top: -250px;
+    padding: 0;
+    width: 1000px;
+    height: 1000px;
+    /*background-color:red;*/
 }
 #logo {
     width: 800px;
